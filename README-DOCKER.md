@@ -30,3 +30,5 @@ docker run -p 80:80 astro-image
 ```
 
 This will start a container running the nginx web server and serve the built Astro project on port 80.
+
+hj estou a falar de git com o Teo 
